@@ -19,11 +19,13 @@ Random Forest came out to be the best of the three with an accuracy score of 7
 
 **2. Bayesian Regression**
 ![](https://github.com/qaziadnan393/Adnan_Portfolio/blob/main/Images/BR%20Performance%20comparison.jpg)
+
 Accuracy score 74%
 
 **3.Neural Network**
 ![](https://github.com/qaziadnan393/Adnan_Portfolio/blob/main/Images/Neural%20network%20performance%20comparison.jpg)
 Accuracy score 73%
+
 
 
 You can use the [editor on GitHub](https://github.com/qaziadnan393/Adnan_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
