@@ -13,6 +13,8 @@ Western Health Australia is a Public hospital which serves a population of appro
 
 ![](https://github.com/qaziadnan393/Adnan_Portfolio/blob/main/Images/BR%20Performance%20comparison.jpg)
 
+![](https://github.com/qaziadnan393/Adnan_Portfolio/blob/main/Images/Neural%20network%20performance%20comparison.jpg)
+
 
 
 
