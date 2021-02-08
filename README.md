@@ -1,4 +1,4 @@
-## Project 1: Western Health WIES prediction modelling
+## [Project 1: Western Health WIES prediction modelling](https://github.com/qaziadnan393/Western-Health-Machine-learning)
 Western Health Australia is a Public hospital which serves a population of approximately 800,000 people in western region of Melbourne.
 
 - Developed a Machine Learning model (99% accuracy) to predict Weighted Inlier Equivalent Separation.
