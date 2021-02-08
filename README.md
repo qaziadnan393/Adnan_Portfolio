@@ -9,13 +9,25 @@ Western Health Australia is a Public hospital which serves a population of appro
 - Assisted Western health with a blueprint model for a WIES prediction which is considered and implemented by their organization.
 - Tech Stack: Jupyter Notebook, Python, Machine learning, Prediction Modelling, Tableau, Power BI.
 
+# Predicting WIES
+
+1. Random Forest
 ![](https://github.com/qaziadnan393/Adnan_Portfolio/blob/main/Images/Random%20Forest%20feature%20Importances.jpg)
+
+Random Forest came out to be the best of the three with an accuracy score of 76%. 
+
+
+2. Bayesian Regression
 
 ![](https://github.com/qaziadnan393/Adnan_Portfolio/blob/main/Images/BR%20Performance%20comparison.jpg)
 
+Accuracy score 74%
+
+3.Neural Network
+
 ![](https://github.com/qaziadnan393/Adnan_Portfolio/blob/main/Images/Neural%20network%20performance%20comparison.jpg)
 
-
+Accuracy score 74%
 
 
 You can use the [editor on GitHub](https://github.com/qaziadnan393/Adnan_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
