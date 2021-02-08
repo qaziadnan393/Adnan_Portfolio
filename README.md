@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to World of Data science
+
+## Western Health WIES prediction modelling
+Western Health Australia is a Public hospital which serves a population of approximately 800,000 people in western region of Melbourne.
+
+•	Developed a Machine Learning model (99% accuracy) to predict Weighted Inlier Equivalent Separation.
+•	Maintained large databases and used various professional statistical techniques to collect, analyse, and interpret data from customers and partners.
+•	Identified and reported any data issues, conducted detailed weekly reports, and pro-actively participated in team meetings with managers.
+•	Conducted interviews with key business users to collect information on business processes and user requirements.
+•	Contributing to the organisation’s efforts for optimisation through predictive & prescriptive analytics, effectively reducing the current manual process and hence the turnaround time of 20 days.
+•	Assisted Western health with a blueprint model for a WIES prediction which is considered and implemented by their organization.
+•	Tech Stack: Jupyter Notebook, Python, Machine learning, Prediction Modelling, Tableau, Power BI.
+
 
 You can use the [editor on GitHub](https://github.com/qaziadnan393/Adnan_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
