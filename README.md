@@ -12,16 +12,16 @@ Western Health Australia is a Public hospital which serves a population of appro
 **Predicting WIES**
 
 **1. Random Forest**
-<p class="aligncenter">
-![](https://github.com/qaziadnan393/Adnan_Portfolio/blob/main/Images/Random%20Forest%20feature%20Importances.jpg)</p>
+![](https://github.com/qaziadnan393/Adnan_Portfolio/blob/main/Images/Random%20Forest%20feature%20Importances.jpg)
 
 Random Forest came out to be the best of the three with an accuracy score of 76%. 
 
 **2. Bayesian Regression**
 <p align="center">
   <img width="460" height="300" src="https://github.com/qaziadnan393/Adnan_Portfolio/blob/main/Images/BR%20Performance%20comparison.jpg">
+  Accuracy score 74%
 </p>
-Accuracy score 74%
+
 
 **3.Neural Network**
 <p align="center">
