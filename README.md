@@ -12,8 +12,7 @@ Western Health Australia is a Public hospital which serves a population of appro
 **Predicting WIES**
 
 **1. Random Forest**
-
-![](/Images/Random%20Forest%20feature%20Importances.jpg)
+![](/images/RandomForestfeatureImportances.jpg)
 
 Random Forest came out to be the best of the three with an accuracy score of 76%. 
 
