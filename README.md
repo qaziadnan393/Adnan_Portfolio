@@ -9,7 +9,7 @@ Western Health Australia is a Public hospital which serves a population of appro
 - Assisted Western health with a blueprint model for a WIES prediction which is considered and implemented by their organization.
 - Tech Stack: Jupyter Notebook, Python, Machine learning, Prediction Modelling, Tableau, Power BI.
 
-# Predicting WIES
+**Predicting WIES**
 
 **1. Random Forest**
 ![](https://github.com/qaziadnan393/Adnan_Portfolio/blob/main/Images/Random%20Forest%20feature%20Importances.jpg)
